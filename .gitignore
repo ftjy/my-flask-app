@@ -1,0 +1,14 @@
+# Ignore Python virtual environment
+venv/
+Lib/
+Scripts/
+
+# Ignore IDE metadata
+*.iml
+.idea/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+pyvenv.cfg
