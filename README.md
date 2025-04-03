@@ -12,16 +12,6 @@ A simple Flask application to demonstrate Kubernetes orchestration and deploymen
 
 ---
 
-## Table of Contents
-
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Contributing](#contributing)
-4. [License](#license)
-5. [Contact](#contact)
-
----
-
 ## Installation
 
 ### Prerequisites
